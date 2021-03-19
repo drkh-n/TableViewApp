@@ -15,6 +15,7 @@
 		FA1EF1DA2602390100F7FAA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA1EF1D82602390100F7FAA3 /* LaunchScreen.storyboard */; };
 		FA1EF1E52602390200F7FAA3 /* TableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA1EF1E42602390200F7FAA3 /* TableViewTests.swift */; };
 		FA1EF1F02602390200F7FAA3 /* TableViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA1EF1EF2602390200F7FAA3 /* TableViewUITests.swift */; };
+		FA1EF20126023B4000F7FAA3 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA1EF20026023B4000F7FAA3 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FA1EF1EB2602390200F7FAA3 /* TableViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA1EF1EF2602390200F7FAA3 /* TableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewUITests.swift; sourceTree = "<group>"; };
 		FA1EF1F12602390200F7FAA3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA1EF20026023B4000F7FAA3 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				FA1EF1CF2602390000F7FAA3 /* SceneDelegate.swift */,
 				FA1EF1D12602390000F7FAA3 /* ViewController.swift */,
 				FA1EF1D32602390000F7FAA3 /* Main.storyboard */,
+				FA1EF20026023B4000F7FAA3 /* TableViewController.swift */,
 				FA1EF1D62602390100F7FAA3 /* Assets.xcassets */,
 				FA1EF1D82602390100F7FAA3 /* LaunchScreen.storyboard */,
 				FA1EF1DB2602390100F7FAA3 /* Info.plist */,
@@ -261,6 +264,7 @@
 				FA1EF1D22602390000F7FAA3 /* ViewController.swift in Sources */,
 				FA1EF1CE2602390000F7FAA3 /* AppDelegate.swift in Sources */,
 				FA1EF1D02602390000F7FAA3 /* SceneDelegate.swift in Sources */,
+				FA1EF20126023B4000F7FAA3 /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
